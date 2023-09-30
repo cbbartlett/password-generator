@@ -1,2 +1,7 @@
-# password-generator
-A password generator written in JavaScript.
+# Password Generator
+
+## About
+In this challenge, we are told to write a basic password generator in JavaScript.
+
+## License
+Refer to the [LICENSE](/LICENSE) in the repo.
