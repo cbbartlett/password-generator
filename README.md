@@ -1,4 +1,5 @@
 # Password Generator
+![Screenshot](assets/img/password.png)
 
 ## About
 In this challenge, we are told to write a basic password generator in JavaScript.
